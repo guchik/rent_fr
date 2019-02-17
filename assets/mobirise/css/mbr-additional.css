@@ -684,6 +684,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -1806,6 +1807,19 @@ body {
 }
 .cid-resCySVkHL .mbr-section-subtitle {
   color: #767676;
+}
+.cid-ril53sF91R {
+  background: linear-gradient(45deg, #0f7699, #ff7f9f);
+}
+@media (min-width: 992px) {
+  .cid-ril53sF91R .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-ril53sF91R .mbr-figure {
+    padding-top: 3rem;
+  }
 }
 .cid-resCEAUh3B {
   padding-top: 60px;
