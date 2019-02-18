@@ -1808,9 +1808,6 @@ body {
 .cid-resCySVkHL .mbr-section-subtitle {
   color: #767676;
 }
-.cid-ril7vE4Uxx {
-  background-image: url("../../../assets/images/rentenjoy-1082x498.jpg");
-}
 .cid-ril53sF91R {
   background: linear-gradient(45deg, #f7ed4a, #ff3366);
 }
@@ -1824,8 +1821,75 @@ body {
     padding-top: 3rem;
   }
 }
+.cid-rip9CAtU2h {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f7c510;
+}
+.cid-rip9CAtU2h .mbr-section-btn > * {
+  margin: 0;
+}
+.cid-rip9CAtU2h h4 {
+  font-weight: 500;
+}
+.cid-rip9CAtU2h p {
+  color: #232323;
+}
+.cid-rip9CAtU2h .aside-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-rip9CAtU2h .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-rip9CAtU2h .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rip9CAtU2h .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-rip9CAtU2h .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-rip9CAtU2h .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rip9CAtU2h .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rip9CAtU2h .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rip9CAtU2h .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-rip9CAtU2h .cost {
+  text-decoration: line-through;
+  color: #767676;
+}
 .cid-rhEqzu3vqf {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
